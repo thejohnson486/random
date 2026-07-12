@@ -6,9 +6,9 @@ _Prices pulled from TCGplayer on 2026-07-11. Conditions restricted to Near Mint 
 
 - **Cards priced:** 171 of 177
 - **Sellers used:** 76, of which 23 carts qualify for free shipping
-- **Cards in free-shipping carts:** 40 of 171
-- **Cards subtotal:** $2,341.99  |  **Shipping:** $103.07  |  **Total:** $2,445.06
-- **Local pickup:** 25 cards ($92.80) at Collector Store LLC; 7 cards ($5.91) at Nerdit Up
+- **Cards in free-shipping carts:** 44 of 171
+- **Cards subtotal:** $2,340.73  |  **Shipping:** $103.45  |  **Total:** $2,444.18
+- **Local pickup:** 20 cards ($91.55) at Collector Store LLC; 8 cards ($6.09) at Nerdit Up
 
 ## Not in the buy plan — wait for better listings
 
@@ -285,7 +285,7 @@ _Add everything in a cart to the same seller's order. Carts marked FREE SHIPPING
 - Aipom — Paradox Rift 211/182 is likewise an Illustration Rare (~$31), not the common (145/182).
 - If you subscribe to TCGplayer (or spend $50+ on TCGplayer Direct listings), Direct is another way to combine sellers into one free shipment.
 
-### Collector Store LLC (local pickup) — 25 cards, subtotal $92.80 — ✅ FREE SHIPPING
+### Collector Store LLC (local pickup) — 20 cards, subtotal $91.55 — ✅ FREE SHIPPING
 _Seller rating 100.0%, local sales_
 
 | Price | Cond. | Printing | Card |
@@ -304,19 +304,14 @@ _Seller rating 100.0%, local sales_
 | $0.25 | Near Mint | Normal | [Beldum — Ancient Origins 47](https://www.tcgplayer.com/product/101467) |
 | $0.25 | Near Mint | Normal | [Clefairy — Obsidian Flames 81](https://www.tcgplayer.com/product/509811) |
 | $0.25 | Near Mint | Normal | [Darumaka — Unbroken Bonds 23](https://www.tcgplayer.com/product/189066) |
-| $0.25 | Near Mint | Normal | [Durant — White Flare 70](https://www.tcgplayer.com/product/642183) |
 | $0.25 | Lightly Played | Normal | [Foongus — Steam Siege 12](https://www.tcgplayer.com/product/121001) |
-| $0.25 | Near Mint | Normal | [Magneton — 151 82](https://www.tcgplayer.com/product/516649) |
 | $0.25 | Near Mint | Normal | [Minccino — Temporal Forces 136](https://www.tcgplayer.com/product/542880) |
-| $0.25 | Near Mint | Normal | [Octillery — Paradox Rift 34](https://www.tcgplayer.com/product/523643) |
 | $0.25 | Near Mint | Normal | [Sandygast — Rebel Clash 81](https://www.tcgplayer.com/product/213167) |
 | $0.25 | Near Mint | Normal | [Sinistea — Obsidian Flames 97](https://www.tcgplayer.com/product/509930) |
-| $0.25 | Near Mint | Normal | [Toxel — Paradox Rift 69](https://www.tcgplayer.com/product/523705) |
 | $0.25 | Near Mint | Normal | [Weedle — Champion's Path 2](https://www.tcgplayer.com/product/222995) |
-| $0.25 | Near Mint | Normal | [Chewtle — Stellar Crown 43](https://www.tcgplayer.com/product/567269) |
 | $0.25 | Near Mint | Normal | [Metapod — Sun & Moon 2](https://www.tcgplayer.com/product/126873) |
 
-### Nerdit Up (local pickup) — 7 cards, subtotal $5.91 — ✅ FREE SHIPPING
+### Nerdit Up (local pickup) — 8 cards, subtotal $6.09 — ✅ FREE SHIPPING
 _Seller rating 100.0%, local sales_
 
 | Price | Cond. | Printing | Card |
@@ -324,6 +319,7 @@ _Seller rating 100.0%, local sales_
 | $3.50 | Lightly Played | Normal | [Slakoth — Mysterious Treasures 99](https://www.tcgplayer.com/product/89298) |
 | $1.57 | Lightly Played | Normal | [Baltoy — Emerald 43](https://www.tcgplayer.com/product/83713) |
 | $0.35 | Moderately Played | Unlimited | [Omanyte — Neo Discovery 60](https://www.tcgplayer.com/product/87856) |
+| $0.18 | Lightly Played | Normal | [Tynamo — Fusion Strike 95](https://www.tcgplayer.com/product/253251) |
 | $0.15 | Lightly Played | Normal | [Litleo — Forbidden Light 18](https://www.tcgplayer.com/product/165665) |
 | $0.12 | Lightly Played | Normal | [Pawniard — Crown Zenith 92](https://www.tcgplayer.com/product/478230) |
 | $0.12 | Lightly Played | Normal | [Pincurchin — Paldea Evolved 72](https://www.tcgplayer.com/product/497483) |
@@ -345,14 +341,6 @@ _Seller rating 100.0%, 56 sales_
 | $96.00 | Moderately Played | Normal | [Ditto — Delta Species 36](https://www.tcgplayer.com/product/84833) |
 | $62.58 | Moderately Played | Normal | [Ditto — Delta Species 39](https://www.tcgplayer.com/product/84836) |
 
-### PhantasmGaming — 2 cards, subtotal $102.50 — ✅ FREE SHIPPING
-_Seller rating 99.9%, 50000+ sales_
-
-| Price | Cond. | Printing | Card |
-|---:|---|---|---|
-| $102.00 | Lightly Played | Holofoil | [Venusaur & Snivy GX — SM Black Star Promos SM229](https://www.tcgplayer.com/product/205162) |
-| $0.50 | Moderately Played | Normal | [Cherubi — Arceus 60](https://www.tcgplayer.com/product/84263) |
-
 ### Dorm Room Pulls — 2 cards, subtotal $101.40 — ⚠️ + $4.00 shipping (seller has no $5 free-ship option)
 _Seller rating 88.5%, 29 sales_
 
@@ -360,6 +348,13 @@ _Seller rating 88.5%, 29 sales_
 |---:|---|---|---|
 | $100.00 | Near Mint | Normal | [Raichu — Skyridge 27](https://www.tcgplayer.com/product/88503) |
 | $1.40 | Near Mint | Normal | [Seedot — Legend Maker 61](https://www.tcgplayer.com/product/89040) |
+
+### TCGEmpireAZ — 1 cards, subtotal $100.67 — ⚠️ + $1.32 shipping (seller has no $5 free-ship option)
+_Seller rating 100.0%, 25000+ sales_
+
+| Price | Cond. | Printing | Card |
+|---:|---|---|---|
+| $100.67 | Lightly Played | Holofoil | [Venusaur & Snivy GX — SM Black Star Promos SM229](https://www.tcgplayer.com/product/205162) |
 
 ### All Blue Gaming — 2 cards, subtotal $95.00 — ⚠️ + $1.99 shipping (seller has no $5 free-ship option)
 _Seller rating 100.0%, 935 sales_
@@ -399,7 +394,7 @@ _Seller rating 99.7%, 6276 sales_
 | $42.32 | Moderately Played | Normal | [Ditto — Delta Species 38](https://www.tcgplayer.com/product/84835) |
 | $22.24 | Lightly Played | Unlimited | [Psyduck — Neo Destiny 79](https://www.tcgplayer.com/product/88433) |
 
-### The Card Caravan — 6 cards, subtotal $58.47 — ⚠️ + $3.99 shipping (seller has no $5 free-ship option)
+### The Card Caravan — 7 cards, subtotal $59.44 — ⚠️ + $3.99 shipping (seller has no $5 free-ship option)
 _Seller rating 99.4%, 878 sales_
 
 | Price | Cond. | Printing | Card |
@@ -410,6 +405,7 @@ _Seller rating 99.4%, 878 sales_
 | $2.74 | Near Mint | Normal | [Gulpin — Hidden Legends 62](https://www.tcgplayer.com/product/85974) |
 | $2.57 | Moderately Played | Normal | [Spinarak — Team Rocket Returns 78](https://www.tcgplayer.com/product/89455) |
 | $1.85 | Lightly Played | Normal | [Snorunt — Arceus 75](https://www.tcgplayer.com/product/89403) |
+| $0.97 | Lightly Played | Normal | [Cherubi — Arceus 60](https://www.tcgplayer.com/product/84263) |
 
 ### Mavericks — 1 cards, subtotal $54.91 — ✅ FREE SHIPPING
 _Seller rating 100.0%, 10000+ sales_
@@ -469,23 +465,22 @@ _Seller rating 100.0%, 25000+ sales_
 |---:|---|---|---|
 | $36.90 | Moderately Played | Normal | [Ditto — Delta Species 61](https://www.tcgplayer.com/product/84838) |
 
-### Chumkchez — 5 cards, subtotal $33.99 — ⚠️ + $1.49 shipping (seller has no $5 free-ship option)
-_Seller rating 100.0%, 77 sales_
-
-| Price | Cond. | Printing | Card |
-|---:|---|---|---|
-| $24.56 | Moderately Played | Normal | [Pikachu — POP Series 2 16](https://www.tcgplayer.com/product/88081) |
-| $3.15 | Near Mint | Normal | [Shelgon — Dragon 41](https://www.tcgplayer.com/product/89123) |
-| $3.00 | Moderately Played | Normal | [Teddiursa — Mysterious Treasures 105](https://www.tcgplayer.com/product/89858) |
-| $2.42 | Moderately Played | Normal | [Aron — Mysterious Treasures 71](https://www.tcgplayer.com/product/83636) |
-| $0.86 | Lightly Played | Normal | [Ekans — Dragon Frontiers 47](https://www.tcgplayer.com/product/85105) |
-
 ### SavageeSales — 1 cards, subtotal $32.00 — ⚠️ + $0.99 shipping (seller has no $5 free-ship option)
 _Seller rating 100.0%, 319 sales_
 
 | Price | Cond. | Printing | Card |
 |---:|---|---|---|
 | $32.00 | Lightly Played | Normal | [Dunsparce — Skyridge 53](https://www.tcgplayer.com/product/85006) |
+
+### Chumkchez — 4 cards, subtotal $30.84 — ⚠️ + $1.49 shipping (seller has no $5 free-ship option)
+_Seller rating 100.0%, 77 sales_
+
+| Price | Cond. | Printing | Card |
+|---:|---|---|---|
+| $24.56 | Moderately Played | Normal | [Pikachu — POP Series 2 16](https://www.tcgplayer.com/product/88081) |
+| $3.00 | Moderately Played | Normal | [Teddiursa — Mysterious Treasures 105](https://www.tcgplayer.com/product/89858) |
+| $2.42 | Moderately Played | Normal | [Aron — Mysterious Treasures 71](https://www.tcgplayer.com/product/83636) |
+| $0.86 | Lightly Played | Normal | [Ekans — Dragon Frontiers 47](https://www.tcgplayer.com/product/85105) |
 
 ### Desert Outpost Co — 1 cards, subtotal $30.34 — ⚠️ + $1.31 shipping (seller has no $5 free-ship option)
 _Seller rating 0.0%, 3 sales_
@@ -540,13 +535,12 @@ _Seller rating 0.0%, 11 sales_
 | $15.19 | Lightly Played | Normal | [Claydol — Emerald 24](https://www.tcgplayer.com/product/84335) |
 | $6.19 | Lightly Played | Normal | [Zigzagoon — Emerald 74](https://www.tcgplayer.com/product/90747) |
 
-### YM Collectibles LLC — 2 cards, subtotal $20.31 — ✅ FREE SHIPPING
+### YM Collectibles LLC — 1 cards, subtotal $19.51 — ✅ FREE SHIPPING
 _Seller rating 100.0%, 290 sales_
 
 | Price | Cond. | Printing | Card |
 |---:|---|---|---|
 | $19.51 | Moderately Played | Normal | [Elekid — Unseen Forces 23](https://www.tcgplayer.com/product/85170) |
-| $0.80 | Near Mint | Normal | [Nuzleaf — BREAKpoint 72](https://www.tcgplayer.com/product/111610) |
 
 ### Drac-s Doodads — 1 cards, subtotal $19.50 — ⚠️ + $0.99 shipping (seller has no $5 free-ship option)
 _Seller rating 94.6%, 43 sales_
@@ -611,14 +605,7 @@ _Seller rating 100.0%, 3424 sales_
 |---:|---|---|---|
 | $14.99 | Moderately Played | Normal | [Smoochum — Unseen Forces 31](https://www.tcgplayer.com/product/89361) |
 
-### AguyFoxTCG — 1 cards, subtotal $13.98 — ⚠️ + $1.31 shipping (seller has no $5 free-ship option)
-_Seller rating 100.0%, 79 sales_
-
-| Price | Cond. | Printing | Card |
-|---:|---|---|---|
-| $13.98 | Moderately Played | Normal | [Ditto — Delta Species 62](https://www.tcgplayer.com/product/84839) |
-
-### GRZCardz — 4 cards, subtotal $13.90 — ✅ FREE SHIPPING
+### GRZCardz — 6 cards, subtotal $14.29 — ✅ FREE SHIPPING
 _Seller rating 100.0%, 6751 sales_
 
 | Price | Cond. | Printing | Card |
@@ -626,7 +613,16 @@ _Seller rating 100.0%, 6751 sales_
 | $9.99 | Moderately Played | Holofoil | [Skitty — McDonald's Collection 2015 12](https://www.tcgplayer.com/product/110432) |
 | $3.27 | Near Mint | Normal | [Ralts — Lost Thunder 139](https://www.tcgplayer.com/product/178958) |
 | $0.44 | Lightly Played | Normal | [Kakuna — Team Up 4](https://www.tcgplayer.com/product/183775) |
+| $0.24 | Near Mint | Normal | [Meltan — Stellar Crown 102](https://www.tcgplayer.com/product/567328) |
 | $0.20 | Near Mint | Normal | [Salandit — Battle Styles 27](https://www.tcgplayer.com/product/234130) |
+| $0.15 | Near Mint | Normal | [Durant — White Flare 70](https://www.tcgplayer.com/product/642183) |
+
+### AguyFoxTCG — 1 cards, subtotal $13.98 — ⚠️ + $1.31 shipping (seller has no $5 free-ship option)
+_Seller rating 100.0%, 79 sales_
+
+| Price | Cond. | Printing | Card |
+|---:|---|---|---|
+| $13.98 | Moderately Played | Normal | [Ditto — Delta Species 62](https://www.tcgplayer.com/product/84839) |
 
 ### PokeDLow Shop — 1 cards, subtotal $13.55 — ✅ FREE SHIPPING
 _Seller rating 0.0%, 316 sales_
@@ -753,6 +749,17 @@ _Seller rating 99.9%, 845 sales_
 | $0.99 | Lightly Played | Normal | [Grimer — Dragon 57](https://www.tcgplayer.com/product/85908) |
 | $0.99 | Lightly Played | Normal | [Paras — FireRed & LeafGreen 72](https://www.tcgplayer.com/product/87950) |
 
+### SwamplandsTCG — 5 cards, subtotal $5.68 — ✅ FREE SHIPPING
+_Seller rating 100.0%, 4264 sales_
+
+| Price | Cond. | Printing | Card |
+|---:|---|---|---|
+| $2.92 | Lightly Played | Normal | [Shelgon — Dragon 41](https://www.tcgplayer.com/product/89123) |
+| $0.69 | Near Mint | Normal | [Grubbin — Unbroken Bonds 18](https://www.tcgplayer.com/product/189060) |
+| $0.69 | Moderately Played | Normal | [Numel — Dragon 69](https://www.tcgplayer.com/product/87806) |
+| $0.69 | Near Mint | Normal | [Nuzleaf — BREAKpoint 72](https://www.tcgplayer.com/product/111610) |
+| $0.69 | Near Mint | Normal | [Pancham — Team Up 81](https://www.tcgplayer.com/product/183859) |
+
 ### -Wilson&Sons — 3 cards, subtotal $5.55 — ⚠️ + $1.50 shipping (seller has no $5 free-ship option)
 _Seller rating 100.0%, 20 sales_
 
@@ -790,13 +797,14 @@ _Seller rating 100.0%, 136 sales_
 |---:|---|---|---|
 | $4.89 | Moderately Played | Normal | [Gloom — Hidden Legends 35](https://www.tcgplayer.com/product/85782) |
 
-### Izen Treasure Shop — 2 cards, subtotal $4.65 — ⚠️ + $1.49 shipping (seller has no $5 free-ship option)
+### Izen Treasure Shop — 3 cards, subtotal $4.75 — ⚠️ + $1.49 shipping (seller has no $5 free-ship option)
 _Seller rating 100.0%, 57 sales_
 
 | Price | Cond. | Printing | Card |
 |---:|---|---|---|
 | $4.40 | Moderately Played | Normal | [Chikorita — Dragon Frontiers 44](https://www.tcgplayer.com/product/84281) |
 | $0.25 | Lightly Played | Normal | [Cacnea — BREAKthrough 4](https://www.tcgplayer.com/product/107123) |
+| $0.10 | Lightly Played | Normal | [Dunsparce — Roaring Skies 68](https://www.tcgplayer.com/product/98104) |
 
 ### TKCollectibles0 — 1 cards, subtotal $4.00 — ⚠️ + $1.49 shipping (seller has no $5 free-ship option)
 _Seller rating 100.0%, 20 sales_
@@ -812,14 +820,6 @@ _Seller rating 100.0%, 50000+ sales_
 |---:|---|---|---|
 | $3.53 | Moderately Played | Unlimited | [Corsola — Neo Discovery 37](https://www.tcgplayer.com/product/84437) |
 
-### MexicanCardMerchant — 2 cards, subtotal $3.50 — ⚠️ + $1.49 shipping (seller has no $5 free-ship option)
-_Seller rating 100.0%, 54 sales_
-
-| Price | Cond. | Printing | Card |
-|---:|---|---|---|
-| $2.50 | Lightly Played | Normal | [Shroomish — Supreme Victors 127](https://www.tcgplayer.com/product/89186) |
-| $1.00 | Near Mint | Normal | [Numel — Dragon 69](https://www.tcgplayer.com/product/87806) |
-
 ### PokeKay TCG — 2 cards, subtotal $3.24 — ⚠️ + $1.49 shipping (seller has no $5 free-ship option)
 _Seller rating 100.0%, 86 sales_
 
@@ -828,17 +828,29 @@ _Seller rating 100.0%, 86 sales_
 | $1.99 | Moderately Played | Normal | [Ledyba — HeartGold & SoulSilver 71](https://www.tcgplayer.com/product/86705) |
 | $1.25 | Moderately Played | Normal | [Sunkern — HeartGold & SoulSilver 85](https://www.tcgplayer.com/product/89622) |
 
-### Madcow TCG — 6 cards, subtotal $2.25 — ⚠️ + $1.49 shipping (under $5)
+### Madcow TCG — 11 cards, subtotal $2.95 — ⚠️ + $1.49 shipping (under $5)
 _Seller rating 99.7%, 3412 sales_
 
 | Price | Cond. | Printing | Card |
 |---:|---|---|---|
 | $0.67 | Lightly Played | Normal | [Joltik — Team Up 47](https://www.tcgplayer.com/product/183822) |
-| $0.47 | Lightly Played | Normal | [Pancham — Team Up 81](https://www.tcgplayer.com/product/183859) |
 | $0.40 | Moderately Played | Normal | [Carbink — Fates Collide 49](https://www.tcgplayer.com/product/117809) |
 | $0.24 | Moderately Played | Normal | [Bunnelby — Rebel Clash 146](https://www.tcgplayer.com/product/213246) |
-| $0.24 | Moderately Played | Normal | [Dunsparce — Roaring Skies 68](https://www.tcgplayer.com/product/98104) |
+| $0.24 | Near Mint | Normal | [Froakie — Twilight Masquerade 56](https://www.tcgplayer.com/product/550100) |
+| $0.24 | Near Mint | Normal | [Snom — Fusion Strike 84](https://www.tcgplayer.com/product/253238) |
 | $0.23 | Moderately Played | Normal | [Gothita — Guardians Rising 52](https://www.tcgplayer.com/product/130958) |
+| $0.20 | Near Mint | Normal | [Chewtle — Stellar Crown 43](https://www.tcgplayer.com/product/567269) |
+| $0.19 | Lightly Played | Normal | [Sizzlipede — Battle Styles 29](https://www.tcgplayer.com/product/234135) |
+| $0.18 | Lightly Played | Normal | [Magneton — 151 82](https://www.tcgplayer.com/product/516649) |
+| $0.18 | Near Mint | Normal | [Octillery — Paradox Rift 34](https://www.tcgplayer.com/product/523643) |
+| $0.18 | Near Mint | Normal | [Toxel — Paradox Rift 69](https://www.tcgplayer.com/product/523705) |
+
+### MexicanCardMerchant — 1 cards, subtotal $2.50 — ⚠️ + $1.49 shipping (seller has no $5 free-ship option)
+_Seller rating 100.0%, 54 sales_
+
+| Price | Cond. | Printing | Card |
+|---:|---|---|---|
+| $2.50 | Lightly Played | Normal | [Shroomish — Supreme Victors 127](https://www.tcgplayer.com/product/89186) |
 
 ### Card Alchemist — 1 cards, subtotal $2.00 — ⚠️ + $1.49 shipping (seller has no $5 free-ship option)
 _Seller rating 100.0%, 27 sales_
@@ -872,24 +884,12 @@ _Seller rating 100.0%, 10000+ sales_
 |---:|---|---|---|
 | $1.63 | Moderately Played | Normal | [Magby — Legend Maker 58](https://www.tcgplayer.com/product/87004) |
 
-### bocchigate — 1 cards, subtotal $1.49 — ⚠️ + $0.50 shipping (under $5)
+### bocchigate — 1 cards, subtotal $1.49 — ⚠️ + $0.74 shipping (under $5)
 _Seller rating 100.0%, 3332 sales_
 
 | Price | Cond. | Printing | Card |
 |---:|---|---|---|
 | $1.49 | Moderately Played | Normal | [Whismur — Supreme Victors 132](https://www.tcgplayer.com/product/90584) |
-
-### TheTrainersVault — 6 cards, subtotal $1.25 — ⚠️ + $1.49 shipping (under $5)
-_Seller rating 100.0%, 787 sales_
-
-| Price | Cond. | Printing | Card |
-|---:|---|---|---|
-| $0.37 | Lightly Played | Normal | [Grubbin — Unbroken Bonds 18](https://www.tcgplayer.com/product/189060) |
-| $0.21 | Lightly Played | Normal | [Snom — Fusion Strike 84](https://www.tcgplayer.com/product/253238) |
-| $0.21 | Near Mint | Normal | [Meltan — Stellar Crown 102](https://www.tcgplayer.com/product/567328) |
-| $0.16 | Lightly Played | Normal | [Tynamo — Fusion Strike 95](https://www.tcgplayer.com/product/253251) |
-| $0.15 | Near Mint | Normal | [Froakie — Twilight Masquerade 56](https://www.tcgplayer.com/product/550100) |
-| $0.15 | Lightly Played | Normal | [Sizzlipede — Battle Styles 29](https://www.tcgplayer.com/product/234135) |
 
 ### DMZ Collectibles — 1 cards, subtotal $0.90 — ⚠️ + $1.45 shipping (seller has no $5 free-ship option)
 _Seller rating 99.9%, 1806 sales_
@@ -905,7 +905,7 @@ _Seller rating 100.0%, 1054 sales_
 |---:|---|---|---|
 | $0.50 | Moderately Played | Normal | [Sewaddle — Legendary Treasures 9](https://www.tcgplayer.com/product/89093) |
 
-### ghostyyccg — 1 cards, subtotal $0.45 — ⚠️ + $0.99 shipping (under $5)
+### ghostyyccg — 1 cards, subtotal $0.45 — ⚠️ + $1.30 shipping (under $5)
 _Seller rating 100.0%, 1313 sales_
 
 | Price | Cond. | Printing | Card |
